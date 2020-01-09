@@ -12,6 +12,8 @@
 # idea
 .idea/
 kills.iml
+target/
+!src/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
